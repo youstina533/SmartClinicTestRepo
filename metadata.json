@@ -1,0 +1,8 @@
+{
+  "name": "SmartClinic - AI Health Risk & Clinic Management",
+  "description": "SmartClinic healthcare portal with simulated AI health risk predictions for Diabetes and Heart Disease, role-based access for Patients, Doctors, and Admin, appointment scheduling, and patient management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
